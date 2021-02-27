@@ -7,7 +7,6 @@
 #include <QLayout>
 #include <QHeaderView>
 #include "mytablewidget.h"
-#include "mygraphicsview.h"
 
 class TableConstructor
 {
